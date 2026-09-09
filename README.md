@@ -1,4 +1,4 @@
-# Hi, I'm Leon Marian 👋
+# Hi, I'm Leon 👋
 
 Python developer focused on **web scraping** and **data cleaning automation**. I build practical tools that collect and clean real-world data, from lead generation scrapers to price trackers.
 
