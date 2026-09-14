@@ -17,13 +17,15 @@ Python developer focused on **web scraping** and **data cleaning automation**. I
 
 ## 📌 Featured Projects
 
+- **[Multilingual E-commerce Data Extraction](https://github.com/leonangheluta-cyber/multilingual-ecommerce-catalog-scraper)** — Three scripts that automatically extract the full product catalog of an e-commerce website in three different languages and consolidate it into a single Excel file.
 - **[EU-Startups Lead Scraper](https://github.com/leonangheluta-cyber/eu-startups-lead-scraper)** — Two-level scraper that collects European startup data (name, location, funding, description) with retry logic, deduplication, and incremental saving.
 - **[PagineGialle Lead Scraper](https://github.com/leonangheluta-cyber/pagine-gialle-lead-scraper)** — Business lead extraction tool for the Italian PagineGialle directory, with configurable search by city and sector.
 - **[UK Startups Data Cleaning](https://github.com/leonangheluta-cyber/data-cleaning-1500-uk-startups)** — Cleaned and analyzed 1,500 real UK startup records (scraped by me), handling messy real-world data and producing a summary visualization.
 
+
 ## 🎯 Currently
 
-Building a portfolio around web scraping and data cleaning, and preparing to work as a freelancer in this niche.
+Building a portfolio around web scraping and data cleaning.
 
 ## 📫 Contact
 
