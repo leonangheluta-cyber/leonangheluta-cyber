@@ -29,6 +29,6 @@ Building a portfolio around web scraping and data cleaning.
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonangheluta@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonangheluta@gmail.com) 🟢 Available for freelance work
 
 ![Profile views](https://komarev.com/ghpvc/?username=leonangheluta-cyber&color=blue&style=flat-square)
