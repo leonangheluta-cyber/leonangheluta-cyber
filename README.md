@@ -2,7 +2,7 @@
 
 Python developer focused on **web scraping** and **data cleaning automation**. I build practical tools that collect and clean real-world data, from lead generation scrapers to price trackers.
 
-Self-taught in Python since January 2026 — no bootcamp, no CS degree, just real projects built end-to-end.
+Self-taught in Python — no bootcamp, no CS degree, just real projects built end-to-end.
 I learn by doing, not by following tutorials: every repo here is proof — real sites, real edge cases, real fixes.
 
 ## 🔧 Tech Stack
