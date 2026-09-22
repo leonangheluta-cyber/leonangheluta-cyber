@@ -14,13 +14,16 @@ I learn by doing, not by following tutorials: every repo here is proof — real 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-4B8BBE?style=for-the-badge)
 ![Requests](https://img.shields.io/badge/Requests-2C2D72?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## 📌 Featured Projects
 
+- **[Tekworld Price & Catalogue Monitor](https://github.com/<tuo-username>/tekworld)** — Scrapy spider that crawls a 5-category appliance catalog daily, splits the output into a multi-sheet Excel report, and delivers it automatically via Telegram through a scheduled GitHub Actions pipeline.
 - **[Multilingual E-commerce Data Extraction](https://github.com/leonangheluta-cyber/multilingual-ecommerce-catalog-scraper)** — Three scripts that automatically extract the full product catalog of an e-commerce website in three different languages and consolidate it into a single Excel file.
 - **[GedShop Multi-Category Scraper And Data Cleaning](https://github.com/leonangheluta-cyber/gedshop-multicategory-scraper)** — Scrapy + pandas pipeline that scrapes ~10,000 products across three categories from an Italian e-commerce site, cleans the data, and analyzes pricing and availability trends.
 - **[EU-Startups Lead Scraper](https://github.com/leonangheluta-cyber/eu-startups-lead-scraper)** — Two-level scraper that collects European startup data (name, location, funding, description) with retry logic, deduplication, and incremental saving.
