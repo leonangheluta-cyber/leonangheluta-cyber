@@ -23,6 +23,7 @@ I learn by doing, not by following tutorials: every repo here is proof — real 
 
 ## 📌 Featured Projects
 
+- **[Fuel Price Tracker](https://github.com/leonangheluta-cyber/automated-fuel-price-tracker)** — A daily data pipeline that downloads the official Italian fuel price open data (MIMIT – Ministry of Enterprises and Made in Italy), finds the cheapest self-service diesel within 20 km of a given location and sends the top 5 stations as a Telegram message.
 - **[Tekworld Price & Catalogue Monitor](https://github.com/leonangheluta-cyber/tekworld-auto-scraper)** — Two-level Scrapy spider that crawls a 5-category appliance catalog daily, splits the output into a multi-sheet Excel report, and delivers it automatically via Telegram through a scheduled GitHub Actions pipeline.
 - **[Multilingual E-commerce Data Extraction](https://github.com/leonangheluta-cyber/multilingual-ecommerce-catalog-scraper)** — Three scripts that automatically extract the full product catalog of an e-commerce website in three different languages and consolidate it into a single Excel file.
 - **[GedShop Multi-Category Scraper And Data Cleaning](https://github.com/leonangheluta-cyber/gedshop-multicategory-scraper)** — Scrapy + pandas pipeline that scrapes ~10,000 products across three categories from an Italian e-commerce site, cleans the data, and analyzes pricing and availability trends.
