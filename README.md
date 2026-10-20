@@ -34,7 +34,7 @@ a warehouse management API built around the problems I saw every day on the floo
 - **[GedShop Multi-Category Scraper And Data Cleaning](https://github.com/leonangheluta-cyber/gedshop-multicategory-scraper)** — Scrapy + pandas pipeline that scrapes ~10,000 products across three categories from an Italian e-commerce site, cleans the data, and analyzes pricing and availability trends.
 
 ## 🎯 Currently
-- Building a warehouse management API (FastAPI + SQL): users, stock movements history, joins
+- Building a warehouse management API (FastAPI + SQL): users, stock movements history, joins **[Warehouse Management README](https://github.com/leonangheluta-cyber/Warehouse-management-system/blob/main/README.md)**
 - Looking for a **junior Python developer role** (backend or data), Vicenza area, hybrid or remote
 
 ## 📫 Contact
